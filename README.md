@@ -72,6 +72,7 @@ Proxy | 代理
 Race Condition | 竞争冒险
 Query | 查询
 Sequence | 排序
+Script | 脚本
 Source Code | 源代码
 Thread | 线
 Throw | 抛出
