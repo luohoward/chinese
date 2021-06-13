@@ -66,6 +66,8 @@ Integration Test | 集成测试
 Library | 库
 Loop | 循环
 Member | 成员
+Operator | 操作符
+Override | 凌驾
 Parameter | 参数
 Process | 进程
 Program | 编程，程序
