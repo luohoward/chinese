@@ -62,6 +62,7 @@ Exception | 异常
 Function | 函数
 Handle | 句柄
 Index | 索引
+Integration Test | 集成测试
 Library | 库
 Loop | 循环
 Member | 成员
@@ -77,4 +78,5 @@ Script | 脚本
 Source Code | 源代码
 Thread | 线
 Throw | 抛出
+Unit Test | 单元测试
 Variable | 变量，变数
