@@ -70,6 +70,7 @@ Process | 进程
 Program | 编程，程序
 Proxy | 代理
 Race Condition | 竞争冒险
+Reference | 引用
 Query | 查询
 Sequence | 排序
 Script | 脚本
